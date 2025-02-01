@@ -11,15 +11,15 @@ import { useEffect } from "react";
 import { useRouter } from "next/navigation";
 
 export default function Home() {
-  const { isAuthenticated, checkAuth } = useAuth(); // Fetch authentication state
-  const router = useRouter(); // Initialize useRouter
+  // const { isAuthenticated, checkAuth } = useAuth(); // Fetch authentication state
+  // const router = useRouter(); // Initialize useRouter
 
-  useEffect(() => {
-    checkAuth();
-    if (!isAuthenticated) {
-      router.push("/login");
-    }
-  }, [checkAuth, isAuthenticated, router]); // Added missing dependencies
+  // useEffect(() => {
+  //   checkAuth();
+  //   if (!isAuthenticated) {
+  //     router.push("/login");
+  //   }
+  // }, [checkAuth, isAuthenticated, router]); // Added missing dependencies
 
   return (
     <main className="h-full w-full">
