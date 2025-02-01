@@ -71,7 +71,7 @@ const DummyContent2 = () => {
               Blockchain offers a decentralized, secure, and transparent way to
               record transactions and manage data. By removing the need for
               centralized authorities, blockchain ensures greater trust and
-              accountability. It's an ideal solution for industries like
+              accountability. It&apos;s an ideal solution for industries like
               finance, supply chain management, healthcare, and voting, where
               transparency and security are paramount. With blockchain, data is
               immutable, reducing the risk of fraud and manipulation, and
@@ -174,7 +174,7 @@ const DummyContent4 = () => {
                 Why Blockchain is the Future of Technology
               </span>{" "}
               <br />
-              Blockchain technology is often described as the future of technology because of its ability to address key challenges in many industries, such as transparency, security, and decentralization. Here's why blockchain is becoming a cornerstone of future technological advancements:
+              Blockchain technology is often described as the future of technology because of its ability to address key challenges in many industries, such as transparency, security, and decentralization. Here&apos;s why blockchain is becoming a cornerstone of future technological advancements:
               <ul className="list-inside list-disc mt-4">
                 <li>
                   <strong>Decentralization:</strong> Unlike traditional centralized systems, blockchain removes the need for intermediaries, allowing peer-to-peer transactions directly between users. This reduces costs and improves efficiency.
@@ -222,7 +222,7 @@ const DummyContent5 = () => {
                 Blockchain Revolutionizing Supply Chains
               </span>{" "}
               <br />
-              The global supply chain industry has long struggled with challenges related to transparency, efficiency, and trust. Blockchain technology is now offering solutions to these issues, revolutionizing the way supply chains operate. Here's how blockchain is transforming supply chains:
+              The global supply chain industry has long struggled with challenges related to transparency, efficiency, and trust. Blockchain technology is now offering solutions to these issues, revolutionizing the way supply chains operate. Here&apos;s how blockchain is transforming supply chains:
               <ul className="list-inside list-disc mt-4">
                 <li>
                   <strong>Transparency:</strong> Blockchain creates a transparent and immutable record of every transaction or movement of goods, ensuring all participants in the supply chain can track products in real-time. This visibility increases accountability and reduces fraud.
@@ -270,13 +270,13 @@ const DummyContent6 = () => {
                 Smart Contracts: Automating Transactions with Blockchain
               </span>{" "}
               <br />
-              Smart contracts are self-executing contracts with the terms of the agreement directly written into code. Powered by blockchain technology, they offer a more secure, transparent, and automated way to execute transactions and enforce agreements. Here's how smart contracts work and why they are revolutionizing industries:
+              Smart contracts are self-executing contracts with the terms of the agreement directly written into code. Powered by blockchain technology, they offer a more secure, transparent, and automated way to execute transactions and enforce agreements. Here&apos;s how smart contracts work and why they are revolutionizing industries:
               <ul className="list-inside list-disc mt-4">
                 <li>
                   <strong>Automation:</strong> Smart contracts automatically execute transactions when predefined conditions are met. For example, once payment is received, a smart contract will automatically release a product to the buyer. This eliminates the need for intermediaries and reduces the chances of human error.
                 </li>
                 <li>
-                  <strong>Security:</strong> Smart contracts are stored on the blockchain, ensuring that once they are deployed, they cannot be altered. The blockchain's cryptographic security makes it highly resistant to hacking or fraud, ensuring that the contract terms are always followed.
+                  <strong>Security:</strong> Smart contracts are stored on the blockchain, ensuring that once they are deployed, they cannot be altered. The blockchain&apos;s cryptographic security makes it highly resistant to hacking or fraud, ensuring that the contract terms are always followed.
                 </li>
                 <li>
                   <strong>Transparency:</strong> Because smart contracts are based on blockchain technology, the terms and conditions are visible to all participants in the network. This transparency builds trust among parties, as they can verify contract execution in real-time.

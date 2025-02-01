@@ -85,7 +85,7 @@ export default function SignupFormDemo1() {
           </LabelInputContainer>
 
           <div className="flex items-center justify-between mb-3">
-            <a href="/signup" className="text-white hover:text-gray-400 transition">Don't have a account? Sign up now</a>
+            <a href="/signup" className="text-white hover:text-gray-400 transition">Don&apos;t have a account? Sign up now</a>
           </div>
 
           <button

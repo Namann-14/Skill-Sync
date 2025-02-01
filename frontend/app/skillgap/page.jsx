@@ -180,7 +180,7 @@ const SkillSyncPage = () => {
           </div>
           <div className="mt-4 bg-green-900/30 p-3 rounded-lg border border-green-500/30">
             <p className="text-xs text-green-300">
-              "I landed my dream job in just 6 weeks!" - Recent Success Story
+            &quot;I landed my dream job in just 6 weeks!&quot; - Recent Success Story
             </p>
           </div>
         </div>

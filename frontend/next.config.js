@@ -11,9 +11,6 @@ const nextConfig = {
       "easy-peasy.ai", // Add any other hostname here
     ],
   },
-  api: {
-    bodyParser: false, // Disabling body parser for file uploads
-  },
 };
 
 export default nextConfig;
