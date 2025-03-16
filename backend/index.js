@@ -3,6 +3,7 @@ const cors = require('cors');
 const Connection = require('./database/db');
 const cookieParser = require('cookie-parser');
 const userRoute = require('./routes/userRoutes.js');
+const skillgapRoutes = require('./routes/skillgap');
 const dotenv = require('dotenv');
 dotenv.config();
 
@@ -35,6 +36,8 @@ Connection();
 app.use(cookieParser());
 
 app.use('/api/user', userRoute);
+
+app.use('/api/skillgap', skillgapRoutes);
 
 const PORT = process.env.PORT || 3002;
 app.listen(PORT, () => {
