@@ -15,30 +15,25 @@
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
 ![Google AI](https://img.shields.io/badge/Google%20Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
-[**Live Demo**](#-demo--live-link) · [**Screenshots**](#-screenshots) · [**Installation**](#-installation--setup) · [**Contributing**](#-contributing)
+ [**Installation**](#-installation--setup) · [**Contributing**](#-contributing)
 
 </div>
 
 ---
-
-## 🚀 Demo / Live Link
 
 <div align="center">
 
 Experience Skill Sync in action:
 
-[![Live Demo](https://img.shields.io/badge/🌐%20Live%20Demo-Visit%20Now-6366F1?style=for-the-badge)](https://skill-sync.vercel.app)
+
+[![Live Demo](https://img.shields.io/badge/🌐%20Live%20Demo-Visit%20Now-6366F1?style=for-the-badge)](https://skill-sync-mu.vercel.app/)
 
 </div>
 
 ---
-
-## 📸 Screenshots
-
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Namann-14/Skill-Sync/main/public/landing-screenshot.png" alt="Skill Sync Landing Page" width="90%" style="border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.3);" />
-
+<img width="1270" height="668" alt="skill sync landing" src="https://github.com/user-attachments/assets/8856e3b8-caa1-4e4e-8943-745432ee504f" />
 *Modern, immersive landing page with 3D star background and smooth animations*
 
 </div>
